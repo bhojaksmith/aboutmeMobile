@@ -226,6 +226,10 @@ h1{
 	text-align: center;
 	font-size: 3em;
 }
+#icn{
+	color:#202020;
+	font-size: 35px;
+}
 #icn:hover{color: cyan;}
 #q{
 	color:white;;
