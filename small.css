@@ -226,6 +226,10 @@ h1{
 	font-weight: bold;
 	font-size: 1em; 	
 }
+#evt{
+	text-decoration:none;
+	color:white;
+}
 #eventsm{
 	margin:5dips;
 	font-size:.7em; 
