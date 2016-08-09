@@ -221,15 +221,15 @@ p{
 	text-align:center; 
 	font-size:2em;
 }	
-#icn{
+#social{
 	color:#202020;
 	font-size: 35px;
 }
+#social:hover{color: white;}
 h1{
 	text-align: center;
 	font-size: 3em;
 }
-#icn:hover{color: cyan;}
 #q{
 	color:white;;
 	margin:0 auto; 
