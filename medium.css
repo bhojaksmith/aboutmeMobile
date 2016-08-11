@@ -286,7 +286,6 @@ button:hover{
     background-color: #202020;
     min-width: 160px;
     opacity: 0.9;
-    padding:10px;
 }
 
 /* Links inside the dropdown */
@@ -294,6 +293,7 @@ button:hover{
     color: white;
     text-decoration: none;
     display: block;
+    padding: 10px;
 }
 
 /* Change color of dropdown links on hover */
