@@ -219,6 +219,7 @@ button:hover{
 .dropbtn {
     background-color: #56D0C1;
     font-size:1.3em;
+    color:#202020;
     font-family: cursive; 
 }
 /* Dropdown button on hover & focus */
@@ -247,7 +248,7 @@ button:hover{
 
 /* Links inside the dropdown */
 .dropdown-content a {
-    color: black;
+    color: #202020;
     text-decoration: none;
     display: block;
 }
