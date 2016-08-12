@@ -206,35 +206,33 @@ h1{
 	About Me Starts from here
 */
 /* Dropdown Button */
-.dropbtn {
-    background-color: #56D0C1;
-    font-size:1.3em;
-    font-family: cursive; 
-    color: white;
-    opacity: 0.5em;
-}
 
-/* Dropdown button on hover & focus */
-.dropbtn:hover, .dropbtn:focus {
-    background-color: white;
-    color: #56D0C1;
-}
 button{
-	width: 98%;
 	top:0;
 	opacity: 0.45;
+	width: 100%;
+	border: none;
 }
 button:hover{
 	opacity: 1;
-	border: none;
+}
+.dropbtn {
+    background-color: #56D0C1;
+    font-size:1.3em;
+    color:#202020;
+    font-family: cursive; 
+}
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: white;
+    color:#202020;
 }
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
-    position: fixed;
-    display: inline; 
-    margin-right:10px; 
-    color: #202020;
+    position: relative;
+    background-color : transparent;
+	width: 98%;
 
 }
 
@@ -242,18 +240,17 @@ button:hover{
 .dropdown-content {
     display: none;
     position: absolute;
-    color:white;
-    background-color: #202020;
+    background-color: #f9f9f9;
     min-width: 160px;
     opacity: 0.9;
+    padding: 10px;
 }
 
 /* Links inside the dropdown */
 .dropdown-content a {
-    color: white;
+    color: #202020;
     text-decoration: none;
     display: block;
-    padding: 10px;
 }
 
 /* Change color of dropdown links on hover */
@@ -264,7 +261,6 @@ button:hover{
 /* 
 	About Me Ends here
 */
-
 #q{
 	color:white;;
 	margin:0 auto; 
