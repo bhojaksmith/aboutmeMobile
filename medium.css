@@ -256,7 +256,7 @@ h1{
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
     background-color: white;
-    color: #202020;
+    color: #56D0C1;
 }
 button{
 	width: 98%;
@@ -273,7 +273,7 @@ button:hover{
     position: fixed;
     display: inline; 
     margin-right:10px; 
-    color: #56D0C1;
+    color: #202020;
 
 }
 
