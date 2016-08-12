@@ -248,7 +248,7 @@ button:hover{
 
 /* Links inside the dropdown */
 .dropdown-content a {
-    padding: 1.1em;
+    padding: .9em;
     font-size:1.15em;
     color: #202020;
     text-decoration: none;
