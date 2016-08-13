@@ -221,7 +221,7 @@ button:hover{
     background-color: #56D0C1;
     font-size:1.3em;
     color:#202020;
-    font-family: cursive; 
+    font-family:"Comic sans ms"; 
 }
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
