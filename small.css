@@ -241,7 +241,8 @@ button:hover{
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: black;
+    color:white;
     min-width: 160px;
     opacity: 0.9;
 }
