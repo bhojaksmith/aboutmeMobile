@@ -168,7 +168,7 @@
 }
 
 #intro,#edu,#prj,#skl,#int{
-	background-color:cyan;
+	background-color:#56D0C1;
 }
 
 img,#proPic{
@@ -180,7 +180,7 @@ img,#proPic{
 #profile{
 	
 	width:100%;
-	background:cyan;
+	background:#56D0C1;
 	height:200dips;
 	position:relative;
 	margin:0 auto ;
@@ -207,7 +207,7 @@ img,#proPic{
 	color:#195070;
 }
 body{
-	background:#202020; 
+	background:gray; 
 	font-family:fantasy;
 
 }
@@ -247,7 +247,7 @@ h1{
 */
 /* Dropdown Button */
 .dropbtn {
-    background-color: cyan;
+    background-color: #56D0C1;
     font-size:1.3em;
     font-family: fantasy; 
     color: black;
@@ -257,7 +257,7 @@ h1{
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
     background-color: white;
-    color: cyan;
+    color: #56D0C1;
 }
 button{
 	width: 98%;
@@ -273,7 +273,7 @@ button:hover{
 .dropdown {
     position: fixed;
     width: 100%;
-    color: cyan;
+    color: #56D0C1;
 
 }
 
