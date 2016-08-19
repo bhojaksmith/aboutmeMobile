@@ -1,6 +1,6 @@
 .upbtn{
 	position: fixed;
-	color:black;
+	color:white;
 	float:right;
 	width:50px;
 	height:50px;
@@ -168,6 +168,7 @@
 }
 
 #intro,#edu,#prj,#skl,#int{
+	color: white;
 	background-color:#56D0C1;
 }
 
@@ -186,7 +187,7 @@ img,#proPic{
 	margin:0 auto ;
 }
 #name{
-	 color:black;
+	 color:white;
 	 text-align:center;
 	 font-size:3em;
 	 margin-top:0dips;
@@ -207,21 +208,21 @@ img,#proPic{
 	color:#195070;
 }
 body{
-	color:black;
-	background:gray; 
+	color:white;
+	background:#202020; 
 	font-family:fantasy;
 
 }
 .timeline{
-	color:black;
+	color:white;
 	margin-top: 100dips;
 	font-size: .7em;
 	font-weight:bold;
 	}
 	p a{
-		color: black;
+		color: white;
 		text-decoration: none;
-		border:1dips solid black; 
+		border-bottom:1px solid white; 
 	}
 p{
 	margin:0 auto;
@@ -238,7 +239,7 @@ h1{
 	font-size: 3em;
 }
 #q{
-	color:black;;
+	color:white;;
 	margin:0 auto; 
 	font-weight: bold;
 	font-size: 1em; 	
@@ -257,7 +258,7 @@ h1{
 
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
-    background-color: black;
+    background-color: white;
     color: #56D0C1;
 }
 button{
@@ -282,7 +283,7 @@ button:hover{
 .dropdown-content {
     display: none;
     position: absolute;
-    color:black;
+    color:white;
     background-color: #202020;
     min-width: 160px;
     opacity: 0.9;
