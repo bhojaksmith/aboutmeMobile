@@ -168,7 +168,7 @@
 }
 
 #intro,#edu,#prj,#skl,#int{
-	background-color:#56D0C1;
+	background-color:cyan;
 }
 
 img,#proPic{
@@ -180,7 +180,7 @@ img,#proPic{
 #profile{
 	
 	width:100%;
-	background:#56D0C1;
+	background:cyan;
 	height:200dips;
 	position:relative;
 	margin:0 auto ;
@@ -247,7 +247,7 @@ h1{
 */
 /* Dropdown Button */
 .dropbtn {
-    background-color: #56D0C1;
+    background-color: cyan;
     font-size:1.3em;
     font-family: fantasy; 
     color: black;
@@ -257,7 +257,7 @@ h1{
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
     background-color: white;
-    color: #56D0C1;
+    color: cyan;
 }
 button{
 	width: 98%;
@@ -273,7 +273,7 @@ button:hover{
 .dropdown {
     position: fixed;
     width: 100%;
-    color: #56D0C1;
+    color: cyan;
 
 }
 
