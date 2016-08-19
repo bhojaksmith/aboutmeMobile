@@ -1,6 +1,6 @@
 .upbtn{
 	position: fixed;
-	color:white;
+	color:black;
 	float:right;
 	width:50px;
 	height:50px;
@@ -159,11 +159,11 @@
 }
 }
 #evtsm{
- 		border:2px solid white; 
+ 		border:2px solid black; 
 }
 
 #evt{
-   color: white;
+   color: black;
    text-decoration:none;
 }
 
@@ -186,7 +186,7 @@ img,#proPic{
 	margin:0 auto ;
 }
 #name{
-	 color:white;
+	 color:black;
 	 text-align:center;
 	 font-size:3em;
 	 margin-top:0dips;
@@ -203,7 +203,7 @@ img,#proPic{
 	margin-top:10dips;
 }
 #evts:hover{
-	background:white;
+	background:black;
 	color:#195070;
 }
 body{
@@ -213,15 +213,15 @@ body{
 
 }
 .timeline{
-	color:white;
+	color:black;
 	margin-top: 100dips;
 	font-size: .7em;
 	font-weight:bold;
 	}
 	p a{
-		color: white;
+		color: black;
 		text-decoration: none;
-		border:1dips solid white; 
+		border:1dips solid black; 
 	}
 p{
 	margin:0 auto;
@@ -232,13 +232,13 @@ p{
 	color:#202020;
 	font-size: 35px;
 }
-#social:hover{color: white;}
+#social:hover{color: black;}
 h1{
 	text-align: center;
 	font-size: 3em;
 }
 #q{
-	color:white;;
+	color:black;;
 	margin:0 auto; 
 	font-weight: bold;
 	font-size: 1em; 	
@@ -257,7 +257,7 @@ h1{
 
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
-    background-color: white;
+    background-color: black;
     color: #56D0C1;
 }
 button{
@@ -282,7 +282,7 @@ button:hover{
 .dropdown-content {
     display: none;
     position: absolute;
-    color:white;
+    color:black;
     background-color: #202020;
     min-width: 160px;
     opacity: 0.9;
