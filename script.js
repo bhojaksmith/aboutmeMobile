@@ -1,0 +1,130 @@
+
+
+$(document).ready(function(){
+    $("#flipintro").click(function(){
+        $("#panelintro").slideToggle("slow"); 
+    });
+});
+
+
+$(document).ready(function(){
+    $("#flipintro").click(function(){
+        $("#panelprj").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipintro").click(function(){
+        $("#paneledu").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipintro").click(function(){
+       $("#panelskl").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipintro").click(function(){
+        $("#panelint").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipint").click(function(){
+        $("#panelint").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $("#flipskl").click(function(){
+        $("#panelskl").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $("#flipskl").click(function(){
+        $("#panelintro").hide();
+    });
+});
+
+$(document).ready(function(){
+    $("#flipskl").click(function(){
+        $("#panelprj").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipskl").click(function(){
+        $("#panelint").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipskl").click(function(){
+        $("#paneledu").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipprj").click(function(){
+        $("#panelprj").slideToggle("slow"); 
+    });
+});
+$(document).ready(function(){
+    $("#flipprj").click(function(){
+        $("#panelintro").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipprj").click(function(){
+        $("#panelskl").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipprj").click(function(){
+        $("#panelint").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipprj").click(function(){
+        $("#paneledu").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipint").click(function(){
+        $("#panelintro").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipint").click(function(){
+        $("#panelskl").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipint").click(function(){
+        $("#panelprj").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipint").click(function(){
+        $("#paneledu").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipedu").click(function(){
+        $("#paneledu").slideToggle("slow"); 
+    });
+});
+$(document).ready(function(){
+    $("#flipedu").click(function(){
+        $("#panelintro").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipedu").click(function(){
+        $("#panelint").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipedu").click(function(){
+        $("#panelskl").hide();
+    });
+});
+$(document).ready(function(){
+    $("#flipedu").click(function(){
+       $("#panelprj").hide();
+    });
+});
