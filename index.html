@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<!--SiteVersion Beta:4.0-->
+	<!--SiteVersion Beta:4.4.1-->
 	<!---Author : Smith Bhojak-->
 	<meta name="author" content="Smith Bhojak">
 	<meta name="keyword" content="Smith bhojak,bhojak,smith,sbhojak">
@@ -139,6 +139,19 @@
 		display: none;
 	}
 	</style>
-	<script src="script.js"></script>
+	<script type="text/javascript">
+function downloadJSAtOnload() {
+var element = document.createElement("script");
+element.src = "script.js";
+document.body.appendChild(element);
+}
+if (window.addEventListener)
+window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+</script>
+
+
 </body>
 </html>
