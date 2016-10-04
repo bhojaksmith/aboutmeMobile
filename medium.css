@@ -150,24 +150,7 @@
  }
 }
 }
-#evtsm{
- 		border:2px solid black; 
-}
-#evt{
-	width: 50%;
-	font-size:.7em; 
-	text-decoration: none;
-	color: #56D0C1;
-}
-.btns{
-	margin: 0 auto;
-	text-decoration: none;
-	text-align: center;
-	font-size:.7em
-	width: 50%;
-	color: #56D0C1;
-	background-color:#56D0C1;
-}
+
 img,#proPic{
 	
 	border-radius:35%;	
@@ -190,20 +173,6 @@ img,#proPic{
 	 font-family: cursive;
 
 }
-#events{
-	display: none;
-}
-#eventsm{
-	margin:5dips;
-	font-size: 2em;
-}
-#evts{
-	margin-top:10dips;
-}
-#evts:hover{
-	background:black;
-	color:#195070;
-}
 body{
 	color:;
 	background:#202020; 
@@ -216,11 +185,6 @@ body{
 	font-weight:bold;
 	font-family: arial ;
 	}
-
-
-i{
-	color: #56D0C1;
-}
 	p a{
 		color: #56D0C1;
 		text-decoration: none;
